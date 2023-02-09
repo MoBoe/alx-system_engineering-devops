@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l
+chmod +-rwxr-xr-x ls -l
